@@ -1,1 +1,1 @@
-# auxillary-Repo
+This project is a walk through on how to onboard new employees who will access to a server in our cloud environment to build and test their codes such as software developers. Rather than doing it one at a time, this project allows us to onboard any number of employees at a time.
